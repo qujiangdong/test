@@ -5,6 +5,7 @@ class Hello{
 		System.out.println("你说的使什么东西");
 		System.out.println("你说的使什么东西");
 		System.out.println("天下无敌");
+		System.out.println("天下无敌");System.out.println("天下无敌");System.out.println("天下无敌");System.out.println("天下无敌");
 
 	}
 }
